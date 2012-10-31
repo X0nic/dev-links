@@ -17,9 +17,13 @@
 * [Rails Guides](http://edgeguides.rubyonrails.org/index.html)
 
 ### Javascript
+* [Understanding JavaScript Function Invocation and “this”](http://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/)
 * [Jster 869+ Javascript Libraries](http://jster.net/)
 * [Rescue.js](http://rescuejs.com/)
 * [Useful JavaScript Libraries and jQuery Plugins](http://coding.smashingmagazine.com/2012/09/23/useful-javascript-libraries-jquery-plugins-web-developers/)
+* [Scaling your Javascript Applications](http://addyosmani.com/scalable-javascript-videos/)
+* [Writing Modular JavaScript](http://marketplace.tutsplus.com/item/writing-modular-javascript/128103)
+* [How I Ended Up Enjoying JavaScript](http://omar.gy/how-i-ended-up-enjoying-javascript/)
 
 ###### jQuery
 * [jQAPI - Alternative jQuery Documentation](http://jqapi.com)
@@ -70,6 +74,7 @@
 
 ### Text Editors
 * [Vim: revisited](http://mislav.uniqpath.com/2011/12/vim-revisited/)
+* [Sublime Text: My workflow and useful resources](http://skippednote.com/post/sublime-text-my-workflow-and-useful-resources)
 
 ### Code Fiddlers
 * [JsFiddle](http://jsfiddle.net/)
@@ -88,6 +93,7 @@
 
 ### Text Editors
 * [Vim University](http://vimuniversity.com/)
+* [Perfect Workflow in Sublime Text](http://net.tutsplus.com/articles/news/perfect-workflow-in-sublime-text-free-course/)
 
 ---
 
