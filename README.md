@@ -11,6 +11,8 @@
 ### Ruby
 * [The Ruby Toolbox](https://www.ruby-toolbox.com)
 * [Background Job Nirvana With Resque, Redis and God](http://shapeshed.com/background-job-nirvana-with-redis-resque-and-god/)
+* [Ruluar - a Ruby regular expression editor](http://www.rubular.com)
+
 
 ###### Rails
 * [Rails Searchable API doc](http://railsapi.com)
