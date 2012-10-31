@@ -72,6 +72,10 @@
 ### Scaling
 * [On Designing and Deploying Internet-Scale Services](http://static.usenix.org/event/lisa07/tech/full_papers/hamilton/hamilton_html/)
 
+### Security
+* [Storing Passwords Securely](http://throwingfire.com/storing-passwords-securely)
+* [Lessons in website security anti-patterns by Tesco](http://www.troyhunt.com/2012/07/lessons-in-website-security-anti.html)
+
 ### Text Editors
 * [Vim: revisited](http://mislav.uniqpath.com/2011/12/vim-revisited/)
 * [Sublime Text: My workflow and useful resources](http://skippednote.com/post/sublime-text-my-workflow-and-useful-resources)
