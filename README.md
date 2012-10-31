@@ -2,6 +2,12 @@
 
 ## Tools
 
+### Rails
+* [Rails Searchable API doc](http://railsapi.com)
+* [Rails Guides](http://edgeguides.rubyonrails.org/index.html)
+
+### Ruby
+* [The Ruby Toolbox](https://www.ruby-toolbox.com)
 
 ### Javascript
 * [Front-end Tools](https://github.com/codylindley/frontend-tools)
@@ -9,8 +15,13 @@
 * [Rescue.js](http://rescuejs.com/)
 * [Useful JavaScript Libraries and jQuery Plugins](http://coding.smashingmagazine.com/2012/09/23/useful-javascript-libraries-jquery-plugins-web-developers/)
 
+### jQuery
+* [jQAPI - Alternative jQuery Documentation](http://jqapi.com)
+* [jQuery for Designers - Tutorials and screencasts](http://jqueryfordesigners.com)
+
 ### CSS
 * [Font Sizing with REM](http://snook.ca/archives/html_and_css/font-size-with-rem)
+* [holmes.css - CSS Markup Detective](http://www.red-root.com/sandbox/holmes/)
 
 ###### Backbone
 * [Rendering Views in Backbone.js Isn't Always Simple](http://ianstormtaylor.com/rendering-views-in-backbonejs-isnt-always-simple/)
@@ -28,6 +39,10 @@
 ### Automation
 
 * [Sub (Automation framework)](https://github.com/37signals/sub)
+
+### Collection of web design and development utilities
+
+* [Nerdi](http://jqueryfordesigners.com
 
 ---
 
