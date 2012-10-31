@@ -42,7 +42,7 @@
 
 ### Collection of web design and development utilities
 
-* [Nerdi](http://jqueryfordesigners.com
+* [Nerdi](http://jqueryfordesigners.com)
 
 ---
 
