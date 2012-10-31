@@ -8,12 +8,13 @@
 * [Modern Web Development](http://jtaby.com/2012/04/23/modern-web-development-part-1.html)
 * [Wait, DevTools could do THAT?](http://www.igvita.com/slides/2012/devtools-tips-and-tricks)
 
-### Rails
-* [Rails Searchable API doc](http://railsapi.com)
-* [Rails Guides](http://edgeguides.rubyonrails.org/index.html)
-
 ### Ruby
 * [The Ruby Toolbox](https://www.ruby-toolbox.com)
+* [Background Job Nirvana With Resque, Redis and God](http://shapeshed.com/background-job-nirvana-with-redis-resque-and-god/)
+
+###### Rails
+* [Rails Searchable API doc](http://railsapi.com)
+* [Rails Guides](http://edgeguides.rubyonrails.org/index.html)
 
 ### Javascript
 * [Jster 869+ Javascript Libraries](http://jster.net/)
@@ -23,11 +24,15 @@
 ###### jQuery
 * [jQAPI - Alternative jQuery Documentation](http://jqapi.com)
 * [jQuery for Designers - Tutorials and screencasts](http://jqueryfordesigners.com)
+* [Building Single Page Applications With jQuery’s Best Friends](http://addyosmani.com/blog/building-spas-jquerys-best-friends/)
 
 ###### Backbone
 * [Rendering Views in Backbone.js Isn't Always Simple](http://ianstormtaylor.com/rendering-views-in-backbonejs-isnt-always-simple/)
 * [Break Apart Your Backbone.js Render Methods](http://ianstormtaylor.com/break-apart-your-backbonejs-render-methods/)
 * [Backbone.js: Hacker's Guide](http://dailyjs.com/2012/07/19/mvstar-2/)
+* [Getting Started with Backbone.js](http://net.tutsplus.com/tutorials/javascript-ajax/getting-started-with-backbone-js/)
+* [Resources For, And How I Learned Backbone.js](http://lostechies.com/derickbailey/2011/09/13/resources-for-and-how-i-learned-backbone-js/)
+* [Backbone.js Resources](http://backbonetraining.net/resources)
 
 ### CSS
 * [Font Sizing with REM](http://snook.ca/archives/html_and_css/font-size-with-rem)
@@ -35,12 +40,13 @@
 * [holmes.css - CSS Markup Detective](http://www.red-root.com/sandbox/holmes/)
 * [Backlift - Backbone PaaS](https://www.backlift.com/index.html)
 
-####### Less
+###### Less
 * [Less Hat](http://lesshat.com)
 * [Less Elements](http://lesselements.com/)
 
 ### Node.js
 * [Building Real-time CoffeeScript Web Applications With SocketStream](http://addyosmani.com/blog/building-real-time-coffeescript-web-applications-with-socketstream/)
+* [Creating a Basic Site With node.js and Express](http://shapeshed.com/creating-a-basic-site-with-node-and-express/)
 
 ### Chef
 
