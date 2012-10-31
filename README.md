@@ -20,14 +20,9 @@
 * [Rescue.js](http://rescuejs.com/)
 * [Useful JavaScript Libraries and jQuery Plugins](http://coding.smashingmagazine.com/2012/09/23/useful-javascript-libraries-jquery-plugins-web-developers/)
 
-### jQuery
+###### jQuery
 * [jQAPI - Alternative jQuery Documentation](http://jqapi.com)
 * [jQuery for Designers - Tutorials and screencasts](http://jqueryfordesigners.com)
-
-### CSS
-* [Font Sizing with REM](http://snook.ca/archives/html_and_css/font-size-with-rem)
-* [holmes.css - CSS Markup Detective](http://www.red-root.com/sandbox/holmes/)
-* [Backlift - Backbone PaaS](https://www.backlift.com/index.html)
 
 ###### Backbone
 * [Rendering Views in Backbone.js Isn't Always Simple](http://ianstormtaylor.com/rendering-views-in-backbonejs-isnt-always-simple/)
@@ -37,6 +32,12 @@
 ### CSS
 * [Font Sizing with REM](http://snook.ca/archives/html_and_css/font-size-with-rem)
 * [A Dao of Web Design (The start of responsive design from 2000)](http://www.alistapart.com/articles/dao/)
+* [holmes.css - CSS Markup Detective](http://www.red-root.com/sandbox/holmes/)
+* [Backlift - Backbone PaaS](https://www.backlift.com/index.html)
+
+####### Less
+* [Less Hat](http://lesshat.com)
+* [Less Elements](http://lesselements.com/)
 
 ### Node.js
 * [Building Real-time CoffeeScript Web Applications With SocketStream](http://addyosmani.com/blog/building-real-time-coffeescript-web-applications-with-socketstream/)
@@ -45,10 +46,15 @@
 
 * [Chef vs Puppet](http://devopsanywhere.blogspot.ca/2011/10/puppet-vs-chef-fight.html)
 * [Deploying a LAMP application with Chef, Vagrant, and EC2](http://www.jasongrimes.org/2012/06/deploying-a-lamp-application-with-chef-vagrant-and-ec2-3-of-3/)
+* [Librarian](https://github.com/applicationsonline/librarian)
+* [Vagrant provisioning with chef-solo](http://jbbarth.com/archives/2011/3/20/vagrant_provisioning_with_chefsolo/)
 
 ### Automation
 
 * [Sub (Automation framework)](https://github.com/37signals/sub)
+* [Vagrant](http://vagrantup.com)
+* [Vagrant Boxes](http://www.vagrantbox.es)
+* [Vagrants and Chefs and Librarians... oh my!](http://blog.base2.io/2012/05/01/vagrants-and-chefs-and-librarians-oh-my/#.UJAwV7TLhS_)
 
 ### Collection of web design and development utilities
 * [Nerdi](http://jqueryfordesigners.com)
@@ -58,6 +64,11 @@
 
 ### Text Editors
 * [Vim: revisited](http://mislav.uniqpath.com/2011/12/vim-revisited/)
+
+### Code Fiddlers
+* [JsFiddle](http://jsfiddle.net/)
+* [Css Deck](http://cssdesk.com/)
+* [Regex Pal](http://regexpal.com/)
 
 ---
 
