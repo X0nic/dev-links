@@ -26,6 +26,7 @@
 * [Scaling your Javascript Applications](http://addyosmani.com/scalable-javascript-videos/)
 * [Writing Modular JavaScript](http://marketplace.tutsplus.com/item/writing-modular-javascript/128103)
 * [How I Ended Up Enjoying JavaScript](http://omar.gy/how-i-ended-up-enjoying-javascript/)
+* [Impress.js - Amazing presentation library](https://github.com/bartaz/impress.js)
 
 ###### jQuery
 * [jQAPI - Alternative jQuery Documentation](http://jqapi.com)
