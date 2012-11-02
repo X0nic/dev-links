@@ -27,6 +27,7 @@
 * [Writing Modular JavaScript](http://marketplace.tutsplus.com/item/writing-modular-javascript/128103)
 * [How I Ended Up Enjoying JavaScript](http://omar.gy/how-i-ended-up-enjoying-javascript/)
 * [Impress.js - Amazing presentation library](https://github.com/bartaz/impress.js)
+* [Numeral.js - A javascript library for formatting and manipulating numbers](http://numeraljs.com)
 
 ###### jQuery
 * [jQAPI - Alternative jQuery Documentation](http://jqapi.com)
