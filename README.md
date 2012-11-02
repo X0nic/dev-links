@@ -8,6 +8,10 @@
 * [Modern Web Development](http://jtaby.com/2012/04/23/modern-web-development-part-1.html)
 * [Wait, DevTools could do THAT?](http://www.igvita.com/slides/2012/devtools-tips-and-tricks)
 
+### Icons
+* [Endless Icons - Free Icons and Creative Stuff](http://www.endlessicons.com)
+* [IcoMoon - Custom Built and Crisp Icon Fonts](icomoon.io)
+
 ### Ruby
 * [The Ruby Toolbox](https://www.ruby-toolbox.com)
 * [Background Job Nirvana With Resque, Redis and God](http://shapeshed.com/background-job-nirvana-with-redis-resque-and-god/)
