@@ -47,6 +47,7 @@
 * [Getting Started with Backbone.js](http://net.tutsplus.com/tutorials/javascript-ajax/getting-started-with-backbone-js/)
 * [Resources For, And How I Learned Backbone.js](http://lostechies.com/derickbailey/2011/09/13/resources-for-and-how-i-learned-backbone-js/)
 * [Backbone.js Resources](http://backbonetraining.net/resources)
+* [Developing Backbone.js Applications](http://addyosmani.github.com/backbone-fundamentals)
 
 ### CSS
 * [Font Sizing with REM](http://snook.ca/archives/html_and_css/font-size-with-rem)
