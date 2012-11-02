@@ -33,6 +33,7 @@
 * [Impress.js - Amazing presentation library](https://github.com/bartaz/impress.js)
 * [Numeral.js - A javascript library for formatting and manipulating numbers](http://numeraljs.com)
 * [Moment.js - A javascript date library for parsing, validating, manipulating, and formatting dates](http://momentjs.com/)
+* [String.js - JavaScript library for the browser or for Node.js that provides extra String methods](http://stringjs.com/)
 
 ###### jQuery
 * [jQAPI - Alternative jQuery Documentation](http://jqapi.com)
