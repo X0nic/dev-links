@@ -43,6 +43,7 @@
 ###### Backbone
 * [Rendering Views in Backbone.js Isn't Always Simple](http://ianstormtaylor.com/rendering-views-in-backbonejs-isnt-always-simple/)
 * [Break Apart Your Backbone.js Render Methods](http://ianstormtaylor.com/break-apart-your-backbonejs-render-methods/)
+* [Step by step from jQuery to Backbone](https://github.com/kjbekkelund/writings/blob/master/published/understanding-backbone.md/)
 * [Backbone.js: Hacker's Guide](http://dailyjs.com/2012/07/19/mvstar-2/)
 * [Getting Started with Backbone.js](http://net.tutsplus.com/tutorials/javascript-ajax/getting-started-with-backbone-js/)
 * [Resources For, And How I Learned Backbone.js](http://lostechies.com/derickbailey/2011/09/13/resources-for-and-how-i-learned-backbone-js/)
