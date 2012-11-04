@@ -127,3 +127,7 @@
 ## Marketing
 * [Software For Underserved Markets](http://www.kalzumeus.com/2011/03/26/software-for-underserved-markets/)
 * [Kalzumeus - Start Here If You’re New](http://www.kalzumeus.com/start-here-if-youre-new/)
+* [E-Commerce: What are the most important metrics for e-commerce companies?](http://www.quora.com/E-Commerce/What-are-the-most-important-metrics-for-e-commerce-companies)
+* [Product Management: What distinguishes the top 1% of product managers from the top 10%?](https://www.quora.com/Product-Management/What-distinguishes-the-top-1-of-product-managers-from-the-top-10)
+* [Lessons for Data Driven Businesses](http://techcrunch.com/2012/10/27/lessons-for-data-driven-businesses/)
+* [What you should know before you launch your product](http://bokardo.com/archives/what-you-should-know-before-you-launch-your-product/)
