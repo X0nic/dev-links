@@ -7,6 +7,7 @@
 * [Front-end Tools](https://github.com/codylindley/frontend-tools)
 * [Modern Web Development](http://jtaby.com/2012/04/23/modern-web-development-part-1.html)
 * [Wait, DevTools could do THAT?](http://www.igvita.com/slides/2012/devtools-tips-and-tricks)
+* [Front-end Job Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions)
 
 ### Icons
 * [Endless Icons - Free Icons and Creative Stuff](http://www.endlessicons.com)
