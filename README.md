@@ -54,6 +54,7 @@
 * [Backbone.js Resources](http://backbonetraining.net/resources)
 * [Developing Backbone.js Applications](http://addyosmani.github.com/backbone-fundamentals)
 * [Backlift - Backbone PaaS](https://www.backlift.com/index.html)
+* (Loosely Coupled, Reusable UI Components in Backbone.js)[http://www.azavea.com/blogs/labs/2012/11/loosely-coupled-reusable-ui-components-in-backbone-js-4/]
 
 ### CSS
 * [Font Sizing with REM](http://snook.ca/archives/html_and_css/font-size-with-rem)
