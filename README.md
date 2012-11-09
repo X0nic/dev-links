@@ -13,6 +13,9 @@
 * [Endless Icons - Free Icons and Creative Stuff](http://www.endlessicons.com)
 * [IcoMoon - Custom Built and Crisp Icon Fonts](icomoon.io)
 
+### Backgrounds
+* [Subtle Patterns](http://subtlepatterns.com/)
+
 ### Ruby
 * [The Ruby Toolbox](https://www.ruby-toolbox.com)
 * [Background Job Nirvana With Resque, Redis and God](http://shapeshed.com/background-job-nirvana-with-redis-resque-and-god/)
