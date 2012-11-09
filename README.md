@@ -96,6 +96,7 @@
 
 ### Code Fiddlers
 * [JsFiddle](http://jsfiddle.net/)
+* [Codepen](http://codepen.io/)
 * [Css Deck](http://cssdesk.com/)
 * [Regex Pal](http://regexpal.com/)
 
