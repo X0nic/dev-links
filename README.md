@@ -38,6 +38,7 @@
 * [Numeral.js - A javascript library for formatting and manipulating numbers](http://numeraljs.com)
 * [Moment.js - A javascript date library for parsing, validating, manipulating, and formatting dates](http://momentjs.com/)
 * [String.js - JavaScript library for the browser or for Node.js that provides extra String methods](http://stringjs.com/)
+* [Sparky - Sparky is a JavaScript library for drawing sparklines dynamically in your web browser](http://prag.ma/code/sparky/)
 
 ###### jQuery
 * [jQAPI - Alternative jQuery Documentation](http://jqapi.com)
