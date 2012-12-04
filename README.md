@@ -119,6 +119,11 @@
 * [Vim University](http://vimuniversity.com/)
 * [Perfect Workflow in Sublime Text](http://net.tutsplus.com/articles/news/perfect-workflow-in-sublime-text-free-course/)
 
+
+## Conferences
+
+* [RubyConf 2012](http://confreaks.com/events/rubyconf2012)
+
 ---
 
 ## Development Process & Related
