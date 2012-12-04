@@ -62,6 +62,7 @@
 * [A Dao of Web Design (The start of responsive design from 2000)](http://www.alistapart.com/articles/dao/)
 * [holmes.css - CSS Markup Detective](http://www.red-root.com/sandbox/holmes/)
 * [Responsive Patterns](http://bradfrost.github.com/this-is-responsive/patterns.html)
+* [CSS Positioning: A Comprehensive Look](http://blog.teamtreehouse.com/css-positioning)
 
 ###### Less
 * [Less Hat](http://lesshat.com)
