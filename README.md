@@ -27,6 +27,7 @@
 * [Rails Guides](http://edgeguides.rubyonrails.org/index.html)
 
 ### Javascript
+* [Resources On Scalable JavaScript Application Architecture](https://github.com/addyosmani/aura/wiki/Resources-On-Scalable-JavaScript-Application-Architecture)
 * [Understanding JavaScript Function Invocation and “this”](http://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/)
 * [Jster 869+ Javascript Libraries](http://jster.net/)
 * [Rescue.js](http://rescuejs.com/)
