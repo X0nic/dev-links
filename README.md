@@ -82,6 +82,7 @@
 
 ### Automation
 
+* [Automating the Setup of My Perfect Developer Environment on OSX 10.8 Mountain Lion](http://vanderveer.be/blog/2013/01/02/automating-the-setup-of-my-perfect-developer-environment-on-osx-10-dot-8-mountain-lion/)
 * [Sub (Automation framework)](https://github.com/37signals/sub)
 * [Vagrant](http://vagrantup.com)
 * [Vagrant Boxes](http://www.vagrantbox.es)
