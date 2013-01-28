@@ -91,6 +91,9 @@
 ### Collection of web design and development utilities
 * [Nerdi](http://jqueryfordesigners.com)
 
+### Charting and Graphing
+* [Data Visualization](http://selection.datavisualization.ch/)
+
 ### Scaling
 * [On Designing and Deploying Internet-Scale Services](http://static.usenix.org/event/lisa07/tech/full_papers/hamilton/hamilton_html/)
 
