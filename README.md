@@ -120,6 +120,7 @@
 
 ### Javascript
 * [Watch me Code](http://www.watchmecode.net/)
+* [Egghead](http://egghead.io/)
 
 ### Text Editors
 * [Vim University](http://vimuniversity.com/)
