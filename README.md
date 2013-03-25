@@ -137,6 +137,7 @@
 * [Programmer Time Translation Table](http://coding.abel.nu/2012/06/programmer-time-translation-table/)
 * [The Most Revealing Job Interview Question](http://refer.ly/blog/most-revealing-interview-question/)
 * [11 Books Every Entrepreneur Should Read](http://jasonevanish.com/2012/07/01/11-books-every-entrepreneur-should-read/)
+* [97 things programmers should know](http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book)
 
 ### Blogs
 * [Death Ray Research](http://deathrayresearch.tumblr.com/)
