@@ -125,6 +125,8 @@
 ### Text Editors
 * [Vim University](http://vimuniversity.com/)
 * [Perfect Workflow in Sublime Text](http://net.tutsplus.com/articles/news/perfect-workflow-in-sublime-text-free-course/)
+* [What is your most productive shortcut with Vim?](http://stackoverflow.com/a/1220118/3453)
+* [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/?published)
 
 
 ## Conferences
