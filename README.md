@@ -17,6 +17,7 @@
 * [Subtle Patterns](http://subtlepatterns.com/)
 
 ### Ruby
+* [One app, one user, one ruby](http://blog.arkency.com/2012/11/one-app-one-user-one-ruby/)
 * [The Ruby Toolbox](https://www.ruby-toolbox.com)
 * [Background Job Nirvana With Resque, Redis and God](http://shapeshed.com/background-job-nirvana-with-redis-resque-and-god/)
 * [Ruluar - a Ruby regular expression editor](http://www.rubular.com)
