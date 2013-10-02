@@ -155,3 +155,4 @@
 * [Product Management: What distinguishes the top 1% of product managers from the top 10%?](https://www.quora.com/Product-Management/What-distinguishes-the-top-1-of-product-managers-from-the-top-10)
 * [Lessons for Data Driven Businesses](http://techcrunch.com/2012/10/27/lessons-for-data-driven-businesses/)
 * [What you should know before you launch your product](http://bokardo.com/archives/what-you-should-know-before-you-launch-your-product/)
+* [a simple git branching model](https://gist.github.com/jbenet/ee6c9ac48068889b0912)
