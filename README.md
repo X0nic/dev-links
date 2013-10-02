@@ -88,6 +88,7 @@
 * [Vagrant](http://vagrantup.com)
 * [Vagrant Boxes](http://www.vagrantbox.es)
 * [Vagrants and Chefs and Librarians... oh my!](http://blog.base2.io/2012/05/01/vagrants-and-chefs-and-librarians-oh-my/#.UJAwV7TLhS_)
+* [Shell Scripts vs Ansible: Fight!](http://devopsu.com/blog/ansible-vs-shell-scripts/)
 
 ### Collection of web design and development utilities
 * [Nerdi](http://jqueryfordesigners.com)
